@@ -47,6 +47,7 @@ I’m open to CTO, CIO, COO, CEO, Chair and Shareholder roles. My passion lies i
 Feel free to contact me on LinkedIn or explore my GitHub profile.
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/rubixvi/)
+
 **Website:** [Rubix Studios](https://www.rubixstudios.com.au/)
 
 Let’s make great things happen! 😊🚀
