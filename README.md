@@ -1,4 +1,4 @@
-## Hi I'm Vincent
+## Hi, I'm Vincent Vu 👋
 
 I’m a Melbourne-based full-stack developer, photographer, and entrepreneur who is passionate about helping others. Here’s a bit about me:
 
