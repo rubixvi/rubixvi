@@ -15,11 +15,3 @@ My technical proficiency spans PHP, JavaScript, HTML, CSS, React, React Native, 
 
 1. **Rubix Studios**: Our agency collaborates with industry leaders such as Google (AI), Meta (formerly Facebook), HubSpot (Marketing), cPanel, Mailchimp, PXA (Partnerships), and GoCardless (Payment Solutions). Rubix Studios has evolved from a Melbourne-based web design company into a global multimedia and marketing powerhouse. Our mission is to help businesses shine through top-quality visuals, strategic marketing and cutting-edge digital solutions.
 2. **Rubix Host**: Rubix Host, a subsidiary of Rubix Studios, is an Australian-owned and operated business email and web hosting company established in 2019. Our mission is to provide simple, personalized, and affordable solutions to keep your business online and secure.
-
-### Links & Socials
-
-You can contact me on LinkedIn or explore my GitHub profile.
-
-**Contact:** [LinkedIn](https://www.linkedin.com/in/rubixvi/)
-
-**Website:** [Rubix Studios](https://www.rubixstudios.com.au/)
