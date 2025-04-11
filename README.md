@@ -1,30 +1,24 @@
 ## Hi, I'm Vincent Vu 👋
 
-I’m a Melbourne-based full-stack developer, photographer, and entrepreneur who is passionate about helping others. Here’s a bit about me:
+I’m an Australian entrepreneur and founder of Rubix Studios. We specialise in multimedia, branding, and web development and offer a suite of videography, photography, marketing, advertising, and digital solutions. Driven by a passion for visual storytelling, strategic leadership, and technical expertise, we aim to create captivating results that resonate with audiences and deliver measurable impact.
+
+Over the course of my career, I’ve produced high-profile campaigns, captured stunning weddings, offered strategic consulting and partnered with industry powerhouses like Microsoft, Google, Amazon, Shopify, Dropbox and Klaviyo. As a Certified Google Cloud Partner and Google Ads Partner, I bring a wealth of understanding in digital strategy, crafting data-driven solutions that drive real results.
+
+My technical proficiency spans PHP, JavaScript, HTML, CSS, React, React Native, Laravel, Liquid, HubL, Solidity, MySQL, PostgreSQL, MongoDB, Prisma, NodeJS, and Express. This enables me to develop robust, scalable solutions, from cutting-edge blockchain applications to seamless HubSpot integrations. I believe passion, practice and persistence can enable any industry to thrive. Let's connect and collaborate.
 
 ### Background
 
 - **Founder, CEO & Chairman**: I founded Rubix Studios, a comprehensive multimedia agency specialising in videography, photography, branding, marketing, and digital solutions. Our journey began with a focus on web design in Melbourne, and we’ve since grown to serve clients globally.
 - **Coding Pioneer**: I started coding professionally at the age of 15 and was a pioneer in PHP coding. With a background in radiation therapy, I bring a unique blend of technical expertise and creativity to my work.
 
-### Services
-
-- **Video Production**: From concept to execution, we create captivating videos that tell your brand's story.
-- **Photography**: Our skilled photographers capture moments that resonate with your audience.
-- **Branding & Advertising**: We develop cohesive brand identities and deliver effective advertising campaigns.
-- **Music Production**: Elevate your content with original music compositions and soundtracks.
-- **Live Event Management**: Whether it's a product launch or a conference, we handle every detail.
-- **SaaS/API Integrations**: Seamlessly connect your systems for enhanced efficiency.
-- **Web Hosting and Cloud Solutions**: We partner with Google and Amazon to provide reliable hosting and cloud services.
-  
 ### Ventures
 
 1. **Rubix Studios**: Our agency collaborates with industry leaders such as Google (AI), Meta (formerly Facebook), HubSpot (Marketing), cPanel, Mailchimp, PXA (Partnerships), and GoCardless (Payment Solutions). Rubix Studios has evolved from a Melbourne-based web design company into a global multimedia and marketing powerhouse. Our mission is to help businesses shine through top-quality visuals, strategic marketing and cutting-edge digital solutions.
 2. **Rubix Host**: Rubix Host, a subsidiary of Rubix Studios, is an Australian-owned and operated business email and web hosting company established in 2019. Our mission is to provide simple, personalized, and affordable solutions to keep your business online and secure.
 
-### Education & Certifications
+### Certifications
 
-- Currently pursuing an **Executive MBA** at RMIT University.
+- Pursuing an **Executive MBA** at RMIT University.
 - Holds a **Bachelor of Applied Science** in Medical Radiologic Technology/Science from RMIT University.
 - Certified in:
     - **Google**: Data Analytics, UX Design, Project Management, Digital Marketing, IT Support, Front-End Development, Back-End Development, Database, Cloud Engineer, AI Engineer.
@@ -35,19 +29,10 @@ I’m a Melbourne-based full-stack developer, photographer, and entrepreneur who
     - **PXA**: Partnerships and Affiliate Marketing.
     - **GoCardless**: Payment Solutions.
 
-### Skills & Endorsements
+### Contact
 
-- Top skills include **Business Development**, **Digital Marketing**, **Branding & Identity**, and **Web Development**.
-- Endorsed for expertise in **Team Building** and **Negotiation**.
-
-### Passion & Vision
-
-I’m open to CTO, CIO, COO, CEO, Chair and Shareholder roles. My passion lies in leveraging technology and innovative strategies to transform businesses. I actively share insights related to business and technology on LinkedIn.
-
-Feel free to contact me on LinkedIn or explore my GitHub profile.
+You can contact me on LinkedIn or explore my GitHub profile.
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/rubixvi/)
 
 **Website:** [Rubix Studios](https://www.rubixstudios.com.au/)
-
-Let’s make great things happen! 😊🚀
