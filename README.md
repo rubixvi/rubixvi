@@ -1,3 +1,5 @@
+## Hi I'm Vincent
+
 I’m a Melbourne-based full-stack developer, photographer, and entrepreneur who is passionate about helping others. Here’s a bit about me:
 
 ### Professional Background
