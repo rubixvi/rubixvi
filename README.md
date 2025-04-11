@@ -1,9 +1,8 @@
-
 ## Hi I'm Vincent
 
 I’m a Melbourne-based full-stack developer, photographer, and entrepreneur who is passionate about helping others. Here’s a bit about me:
 
-### Professional Background
+### Background
 
 - **Founder, CEO & Chairman**: I founded Rubix Studios, a comprehensive multimedia agency specialising in videography, photography, branding, marketing, and digital solutions. Our journey began with a focus on web design in Melbourne, and we’ve since grown to serve clients globally.
 - **Coding Pioneer**: I started coding professionally at the age of 15 and was a pioneer in PHP coding. With a background in radiation therapy, I bring a unique blend of technical expertise and creativity to my work.
@@ -18,7 +17,7 @@ I’m a Melbourne-based full-stack developer, photographer, and entrepreneur who
 - **SaaS/API Integrations**: Seamlessly connect your systems for enhanced efficiency.
 - **Web Hosting and Cloud Solutions**: We partner with Google and Amazon to provide reliable hosting and cloud services.
   
-### Business Ventures
+### Ventures
 
 1. **Rubix Studios**: Our agency collaborates with industry leaders such as Google (AI), Meta (formerly Facebook), HubSpot (Marketing), cPanel, Mailchimp, PXA (Partnerships), and GoCardless (Payment Solutions). Rubix Studios has evolved from a Melbourne-based web design company into a global multimedia and marketing powerhouse. Our mission is to help businesses shine through top-quality visuals, strategic marketing and cutting-edge digital solutions.
 2. **Rubix Host**: Rubix Host, a subsidiary of Rubix Studios, is an Australian-owned and operated business email and web hosting company established in 2019. Our mission is to provide simple, personalized, and affordable solutions to keep your business online and secure.
