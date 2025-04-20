@@ -1,6 +1,6 @@
 ## Hi, I'm Vincent Vu 👋
 
-I’m an Australian entrepreneur and founder of [Rubix Studios](https://www.rubixstudios.com.au/). We specialise in multimedia, branding, and web development and offer a suite of videography, photography, marketing, advertising, and digital solutions. Driven by a passion for visual storytelling, strategic leadership, and technical expertise, we aim to create captivating results that resonate with audiences and deliver measurable impact.
+I’m an Australian entrepreneur and founder of [Rubix Studios](https://rubixstudios.com.au). We specialise in multimedia, branding, and web development and offer a suite of videography, photography, marketing, advertising, and digital solutions. Driven by a passion for visual storytelling, strategic leadership, and technical expertise, we aim to create captivating results that resonate with audiences and deliver measurable impact.
 
 Over the course of my career, I’ve produced high-profile campaigns, captured stunning weddings, offered strategic consulting and partnered with industry powerhouses like Microsoft, Google, Amazon, Shopify, Dropbox and Klaviyo. As a Certified Google Cloud Partner and Google Ads Partner, I bring a wealth of understanding in digital strategy, crafting data-driven solutions that drive real results.
 
