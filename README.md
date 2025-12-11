@@ -15,6 +15,6 @@ My technical proficiency spans a wide range of technologies including **PHP**, *
 
 ### Ventures
 
-- **Rubix Studios**: **Rubix Studios** collaborates with industry leaders such as **Google** (AI), **Meta** (formerly Facebook), **HubSpot** (Marketing), **cPanel**, **Mailchimp**, **PXA** (Partnerships), and **GoCardless** (Payment Solutions). Our agency has grown into a trusted partner for businesses seeking innovative multimedia and marketing solutions. Our mission is to help businesses elevate their brand visibility through high-quality content and strategic, data-driven digital marketing.
+- **Rubix Studios** collaborates with industry leaders such as **Google** (AI), **Meta** (formerly Facebook), **HubSpot** (Marketing), **cPanel**, **Mailchimp**, **PXA** (Partnerships), and **GoCardless** (Payment Solutions). Our agency has grown into a trusted partner for businesses seeking innovative multimedia and marketing solutions. Our mission is to help businesses elevate their brand visibility through high-quality content and strategic, data-driven digital marketing.
 
-- **Rubix Host**: **Rubix Host**, a subsidiary of **Rubix Studios**, is an Australian-owned and operated email and web hosting company established in 2019. We provide personalized, reliable, and cost-effective solutions that ensure businesses stay secure and operational online.
+- **Rubix Host**, a subsidiary of **Rubix Studios**, is an Australian-owned and operated email and web hosting company established in 2019. We provide personalized, reliable, and cost-effective solutions that ensure businesses stay secure and operational online.
