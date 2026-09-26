@@ -13,7 +13,3 @@ I lead **Rubix Studios**, an agency working across software development, brandin
 - **[Rubix Host](https://rubixhost.com.au)** · Australian web and email hosting
 
 ![GitHub contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubixvi/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rubixvi/)
-[![X](https://img.shields.io/badge/X-Follow-18181b?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rubixvi)
