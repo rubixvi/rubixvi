@@ -22,12 +22,4 @@ I lead **Rubix Studios**, an agency working across software development, brandin
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,prisma&perline=6" alt="MongoDB, PostgreSQL, MySQL, Redis, Supabase, Prisma" />
 
-<p>
-  <img src="https://api.iconify.design/logos/payload.svg" alt="Payload CMS" title="Payload CMS" width="48" height="48" />
-  <img src="https://api.iconify.design/logos/sanity.svg" alt="Sanity" title="Sanity" width="48" height="48" />
-  <img src="https://api.iconify.design/logos/expo.svg" alt="Expo" title="Expo" width="48" height="48" />
-  <img src="https://api.iconify.design/logos/shopify.svg" alt="Shopify Liquid" title="Shopify Liquid" width="48" height="48" />
-  <img src="https://api.iconify.design/logos/hubspot.svg" alt="HubSpot HubL" title="HubSpot HubL" width="48" height="48" />
-  <img src="https://api.iconify.design/logos/fastify.svg" alt="Fastify" title="Fastify" width="48" height="48" />
-  <img src="https://api.iconify.design/logos/drizzle.svg" alt="Drizzle ORM" title="Drizzle ORM" width="48" height="48" />
-</p>
+<img src="./assets/additional-technologies.svg" alt="Payload CMS, Sanity, Expo, Shopify Liquid, HubSpot HubL, Fastify, Drizzle ORM" />
