@@ -14,6 +14,6 @@ I lead **Rubix Studios**, an agency working across software development, brandin
 
 ![GitHub contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-[![Rubix Studios](https://img.shields.io/badge/Rubix_Studios-Website-18181b?style=for-the-badge)](https://rubixstudios.com.au)
-[![Rubix Host](https://img.shields.io/badge/Rubix_Host-Website-18181b?style=for-the-badge)](https://rubixhost.com.au)
-[![Onedash](https://img.shields.io/badge/Onedash-Website-2563eb?style=for-the-badge)](https://onedash.au)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubixvi/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rubixvi/)
+[![X](https://img.shields.io/badge/X-Follow-18181b?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rubixvi)
